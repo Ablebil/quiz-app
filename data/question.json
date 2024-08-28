@@ -1,0 +1,17 @@
+[
+  {
+    "question": "What is the chemical symbol for water?",
+    "answer": ["H₂O", "O₂", "CO₂", "H₂"],
+    "key": "H₂O"
+  },
+  {
+    "question": "What is the process by which plants make their food called?",
+    "answer": ["Photosynthesis", "Respiration", "Transpiration", "Digestion"],
+    "key": "Photosynthesis"
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "answer": ["Venus", "Mars", "Jupiter", "Saturn"],
+    "key": "Mars"
+  }
+]
